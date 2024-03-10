@@ -54,4 +54,11 @@ In response, the managing director initiated the incorporation of "Business and 
 This project provided valuable real-world engagement, enhancing my skills as a data analyst. Key learning outcomes include proficiency in metric implementation, advanced data modeling, and the successful application of a star schema with many-to-one relations.
 
 The acquired knowledge and skills from this challenge demonstrate ongoing growth and development, positioning me to contribute effectively in future professional endeavors.
+
+## Data Model Created
+<p align="center">
+    <img src="https://github.com/SanwayaKoner/Hospitality_Project_PowerBi/blob/main/datamodel.png">
+</p>
+
+## Dashboard
 ![AtliQ Dashboard](https://github.com/SanwayaKoner/AtliQ-Hospitality-Project/blob/main/Dashboard.jpg)
