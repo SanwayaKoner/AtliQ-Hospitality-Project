@@ -57,7 +57,7 @@ The acquired knowledge and skills from this challenge demonstrate ongoing growth
 
 ## Data Model Created
 <p align="center">
-    <img src="https://github.com/SanwayaKoner/Hospitality_Project_PowerBi/blob/main/datamodel.png">
+    <img src="https://github.com/SanwayaKoner/AtliQ-Hospitality-Project/blob/main/datamodel.png">
 </p>
 
 ## Dashboard
