@@ -14,11 +14,11 @@ Atliq Grands, a stalwart in the hospitality industry with multiple five-star hot
 
 In response, the managing director initiated the incorporation of "Business and Data Intelligence" to regain market share and revenue. My contribution was the creation of a Power BI dashboard, aiding Atliq Grands in their recovery journey.
 
-## Project Snapshots
+## Mockup Dashboard
 
 ![Mockup Dashboard](https://github.com/ArushiMarwaha/Hospitality_Project_PowerBi/blob/main/mock%20up%20dashboard%20atliq.png)
 
-![AtliQ Dashboard](https://github.com/ArushiMarwaha/Hospitality_Project_PowerBi/blob/main/AtliQ%20Dashboard.png)
+
 
 ## Technology Utilized
 
@@ -54,3 +54,4 @@ In response, the managing director initiated the incorporation of "Business and 
 This project provided valuable real-world engagement, enhancing my skills as a data analyst. Key learning outcomes include proficiency in metric implementation, advanced data modeling, and the successful application of a star schema with many-to-one relations.
 
 The acquired knowledge and skills from this challenge demonstrate ongoing growth and development, positioning me to contribute effectively in future professional endeavors.
+![AtliQ Dashboard](https://github.com/SanwayaKoner/AtliQ-Hospitality-Project/blob/main/Dashboard.jpg)
